@@ -1,0 +1,4 @@
+local plr = game.Players.Localplayer
+local char = plr.Character
+
+char.Humanoid.Health = 100
